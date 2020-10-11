@@ -1,0 +1,1 @@
+so far got the api calls working but that's the only thing i can seem to get working. react is strange to me and despite the self contained lessons working i cant seem to figure out how to get the most basic things to work here. I'm stuck trying to get basic data to render from the list. hopefully i can get back to this before anyone reads this.
